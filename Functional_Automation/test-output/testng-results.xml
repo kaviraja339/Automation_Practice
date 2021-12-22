@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="133830" started-at="2021-12-13T08:16:14 IST" finished-at="2021-12-13T08:18:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="133830" started-at="2021-12-13T08:16:14 IST" finished-at="2021-12-13T08:18:28 IST">
+      <class name="com.saucedemo.testcases.TC_001_Customer_Login">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.saucedemo.testcases.TC_001_Customer_Login@2a40cd94]" name="startReport" is-config="true" duration-ms="21" started-at="2021-12-13T08:16:14 IST" finished-at="2021-12-13T08:16:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.saucedemo.testcases.TC_001_Customer_Login@2a40cd94]" name="launchBrowser" is-config="true" duration-ms="105554" started-at="2021-12-13T08:16:16 IST" finished-at="2021-12-13T08:18:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Verify_TC_001_Customer_Login()[pri:0, instance:com.saucedemo.testcases.TC_001_Customer_Login@2a40cd94]" name="Verify_TC_001_Customer_Login" duration-ms="24568" started-at="2021-12-13T08:18:01 IST" finished-at="2021-12-13T08:18:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_TC_001_Customer_Login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.saucedemo.testcases.TC_001_Customer_Login@2a40cd94]" name="teardown" is-config="true" duration-ms="2249" started-at="2021-12-13T08:18:26 IST" finished-at="2021-12-13T08:18:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="CloseReport()[pri:0, instance:com.saucedemo.testcases.TC_001_Customer_Login@2a40cd94]" name="CloseReport" is-config="true" duration-ms="2" started-at="2021-12-13T08:18:33 IST" finished-at="2021-12-13T08:18:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseReport -->
+      </class> <!-- com.saucedemo.testcases.TC_001_Customer_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
